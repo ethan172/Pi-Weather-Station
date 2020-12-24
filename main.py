@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 """
 Author: Ethan Rockaway
 """
